@@ -1,0 +1,464 @@
+schemaVersion: 1
+id: github:prof18/feed-flow
+slug: feed-flow
+source:
+  provider: github
+  owner: prof18
+  repo: feed-flow
+  url: https://github.com/prof18/feed-flow
+app:
+  name: feed-flow
+  description: FeedFlow is a minimalistic RSS Reader available on Android, iOS, macOS, Windows and
+    Linux. Built with Kotlin Multiplatform, Jetpack Compose and SwiftUI.
+  category: news
+  projectType: real-app
+  platforms:
+    - ios
+  tags:
+    - swift
+    - kotlin
+    - swiftui
+    - jetpack
+stack:
+  primary: ios
+  families:
+    - native
+  technologies:
+    - id: swift
+      role: language-or-framework
+    - id: swiftui
+      role: language-or-framework
+github:
+  repository:
+    id: 600257020
+    node_id: R_kgDOI8cx_A
+    name: feed-flow
+    full_name: prof18/feed-flow
+    private: false
+    owner:
+      login: prof18
+      id: 9467705
+      node_id: MDQ6VXNlcjk0Njc3MDU=
+      avatar_url: https://avatars.githubusercontent.com/u/9467705?v=4
+      gravatar_id: ""
+      url: https://api.github.com/users/prof18
+      html_url: https://github.com/prof18
+      followers_url: https://api.github.com/users/prof18/followers
+      following_url: https://api.github.com/users/prof18/following{/other_user}
+      gists_url: https://api.github.com/users/prof18/gists{/gist_id}
+      starred_url: https://api.github.com/users/prof18/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/prof18/subscriptions
+      organizations_url: https://api.github.com/users/prof18/orgs
+      repos_url: https://api.github.com/users/prof18/repos
+      events_url: https://api.github.com/users/prof18/events{/privacy}
+      received_events_url: https://api.github.com/users/prof18/received_events
+      type: User
+      user_view_type: public
+      site_admin: false
+    html_url: https://github.com/prof18/feed-flow
+    description: FeedFlow is a minimalistic RSS Reader available on Android, iOS, macOS, Windows and
+      Linux. Built with Kotlin Multiplatform, Jetpack Compose and SwiftUI.
+    fork: false
+    url: https://api.github.com/repos/prof18/feed-flow
+    forks_url: https://api.github.com/repos/prof18/feed-flow/forks
+    keys_url: https://api.github.com/repos/prof18/feed-flow/keys{/key_id}
+    collaborators_url: https://api.github.com/repos/prof18/feed-flow/collaborators{/collaborator}
+    teams_url: https://api.github.com/repos/prof18/feed-flow/teams
+    hooks_url: https://api.github.com/repos/prof18/feed-flow/hooks
+    issue_events_url: https://api.github.com/repos/prof18/feed-flow/issues/events{/number}
+    events_url: https://api.github.com/repos/prof18/feed-flow/events
+    assignees_url: https://api.github.com/repos/prof18/feed-flow/assignees{/user}
+    branches_url: https://api.github.com/repos/prof18/feed-flow/branches{/branch}
+    tags_url: https://api.github.com/repos/prof18/feed-flow/tags
+    blobs_url: https://api.github.com/repos/prof18/feed-flow/git/blobs{/sha}
+    git_tags_url: https://api.github.com/repos/prof18/feed-flow/git/tags{/sha}
+    git_refs_url: https://api.github.com/repos/prof18/feed-flow/git/refs{/sha}
+    trees_url: https://api.github.com/repos/prof18/feed-flow/git/trees{/sha}
+    statuses_url: https://api.github.com/repos/prof18/feed-flow/statuses/{sha}
+    languages_url: https://api.github.com/repos/prof18/feed-flow/languages
+    stargazers_url: https://api.github.com/repos/prof18/feed-flow/stargazers
+    contributors_url: https://api.github.com/repos/prof18/feed-flow/contributors
+    subscribers_url: https://api.github.com/repos/prof18/feed-flow/subscribers
+    subscription_url: https://api.github.com/repos/prof18/feed-flow/subscription
+    commits_url: https://api.github.com/repos/prof18/feed-flow/commits{/sha}
+    git_commits_url: https://api.github.com/repos/prof18/feed-flow/git/commits{/sha}
+    comments_url: https://api.github.com/repos/prof18/feed-flow/comments{/number}
+    issue_comment_url: https://api.github.com/repos/prof18/feed-flow/issues/comments{/number}
+    contents_url: https://api.github.com/repos/prof18/feed-flow/contents/{+path}
+    compare_url: https://api.github.com/repos/prof18/feed-flow/compare/{base}...{head}
+    merges_url: https://api.github.com/repos/prof18/feed-flow/merges
+    archive_url: https://api.github.com/repos/prof18/feed-flow/{archive_format}{/ref}
+    downloads_url: https://api.github.com/repos/prof18/feed-flow/downloads
+    issues_url: https://api.github.com/repos/prof18/feed-flow/issues{/number}
+    pulls_url: https://api.github.com/repos/prof18/feed-flow/pulls{/number}
+    milestones_url: https://api.github.com/repos/prof18/feed-flow/milestones{/number}
+    notifications_url: https://api.github.com/repos/prof18/feed-flow/notifications{?since,all,participating}
+    labels_url: https://api.github.com/repos/prof18/feed-flow/labels{/name}
+    releases_url: https://api.github.com/repos/prof18/feed-flow/releases{/id}
+    deployments_url: https://api.github.com/repos/prof18/feed-flow/deployments
+    created_at: 2023-02-11T00:04:52Z
+    updated_at: 2026-07-11T12:49:31Z
+    pushed_at: 2026-07-11T12:50:46Z
+    git_url: git://github.com/prof18/feed-flow.git
+    ssh_url: git@github.com:prof18/feed-flow.git
+    clone_url: https://github.com/prof18/feed-flow.git
+    svn_url: https://github.com/prof18/feed-flow
+    homepage: https://www.feedflow.dev
+    size: 908729
+    stargazers_count: 994
+    watchers_count: 994
+    language: Kotlin
+    has_issues: true
+    has_projects: true
+    has_downloads: true
+    has_wiki: true
+    has_pages: true
+    has_discussions: false
+    forks_count: 53
+    mirror_url: null
+    archived: false
+    disabled: false
+    open_issues_count: 68
+    license:
+      key: apache-2.0
+      name: Apache License 2.0
+      spdx_id: Apache-2.0
+      url: https://api.github.com/licenses/apache-2.0
+      node_id: MDc6TGljZW5zZTI=
+    allow_forking: true
+    is_template: false
+    web_commit_signoff_required: false
+    has_pull_requests: true
+    pull_request_creation_policy: all
+    topics:
+      - compose-desktop
+      - jetpack-compose
+      - kotlin-multiplatform
+      - swiftui
+    visibility: public
+    forks: 53
+    open_issues: 68
+    watchers: 994
+    default_branch: main
+    permissions:
+      admin: false
+      maintain: false
+      push: false
+      triage: false
+      pull: false
+    temp_clone_token: ""
+    network_count: 53
+    subscribers_count: 7
+  activity:
+    monthlyCommits:
+      - month: 2026-02
+        commits: 0
+      - month: 2026-03
+        commits: 0
+      - month: 2026-04
+        commits: 0
+      - month: 2026-05
+        commits: 0
+      - month: 2026-06
+        commits: 40
+      - month: 2026-07
+        commits: 60
+    totalCommitsKnown: 3345
+    openPullRequests: 10
+    contributorsKnown: 97
+  sync:
+    syncedAt: 2026-07-12T09:06:08.953Z
+    apiVersion: rest-v3
+    source: github-actions
+  languages:
+    Kotlin: 3323676
+    Swift: 594959
+    HTML: 337614
+    JavaScript: 127211
+    CSS: 49288
+    Python: 42920
+    Shell: 36781
+  latestRelease:
+    url: https://api.github.com/repos/prof18/feed-flow/releases/352479321
+    assets_url: https://api.github.com/repos/prof18/feed-flow/releases/352479321/assets
+    upload_url: https://uploads.github.com/repos/prof18/feed-flow/releases/352479321/assets{?name,label}
+    html_url: https://github.com/prof18/feed-flow/releases/tag/1.15.0-all
+    id: 352479321
+    author:
+      login: github-actions[bot]
+      id: 41898282
+      node_id: MDM6Qm90NDE4OTgyODI=
+      avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+      gravatar_id: ""
+      url: https://api.github.com/users/github-actions%5Bbot%5D
+      html_url: https://github.com/apps/github-actions
+      followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+      following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+      gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+      starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+      organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+      repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+      events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+      received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+      type: Bot
+      user_view_type: public
+      site_admin: false
+    node_id: RE_kwDOI8cx_M4VAmhZ
+    tag_name: 1.15.0-all
+    target_commitish: main
+    name: 1.15.0-desktop
+    draft: false
+    immutable: false
+    prerelease: false
+    created_at: 2026-07-11T08:22:55Z
+    updated_at: 2026-07-11T09:46:24Z
+    published_at: 2026-07-11T09:46:24Z
+    assets:
+      - url: https://api.github.com/repos/prof18/feed-flow/releases/assets/473388353
+        id: 473388353
+        node_id: RA_kwDOI8cx_M4cN1VB
+        name: feedflow-1.15.0-1.x86_64.rpm
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/x-redhat-package-manager
+        state: uploaded
+        size: 102887290
+        digest: sha256:7dc21c9bf1e2fbf5ea518fe5d11f606b91b4020ee588e925c1b9ecfd5fd3fbd9
+        download_count: 3
+        created_at: 2026-07-11T09:37:19Z
+        updated_at: 2026-07-11T09:37:24Z
+        browser_download_url: https://github.com/prof18/feed-flow/releases/download/1.15.0-all/feedflow-1.15.0-1.x86_64.rpm
+      - url: https://api.github.com/repos/prof18/feed-flow/releases/assets/473388349
+        id: 473388349
+        node_id: RA_kwDOI8cx_M4cN1U9
+        name: FeedFlow-1.15.0-x86_64.AppImage
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/octet-stream
+        state: uploaded
+        size: 99805688
+        digest: sha256:00a33792f11467833b98cc1cb5f054ac0ca904e2af3c226e80f8e6202132a810
+        download_count: 8
+        created_at: 2026-07-11T09:37:19Z
+        updated_at: 2026-07-11T09:37:24Z
+        browser_download_url: https://github.com/prof18/feed-flow/releases/download/1.15.0-all/FeedFlow-1.15.0-x86_64.AppImage
+      - url: https://api.github.com/repos/prof18/feed-flow/releases/assets/473388354
+        id: 473388354
+        node_id: RA_kwDOI8cx_M4cN1VC
+        name: FeedFlow-1.15.0-x86_64.AppImage.sha256
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/octet-stream
+        state: uploaded
+        size: 103
+        digest: sha256:2d2cdfad718a644227dd41903ecdb9fa6258a5aeecf2e6bb5f1f9025205600a1
+        download_count: 1
+        created_at: 2026-07-11T09:37:19Z
+        updated_at: 2026-07-11T09:37:19Z
+        browser_download_url: https://github.com/prof18/feed-flow/releases/download/1.15.0-all/FeedFlow-1.15.0-x86_64.AppImage.sha256
+      - url: https://api.github.com/repos/prof18/feed-flow/releases/assets/473388351
+        id: 473388351
+        node_id: RA_kwDOI8cx_M4cN1U_
+        name: FeedFlow-1.15.0.dmg
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/x-apple-diskimage
+        state: uploaded
+        size: 108319100
+        digest: sha256:a1b643743ca9e4be7cfa58e465ccdc098cd642f4a3e7365babf5ce5b49c3f068
+        download_count: 51
+        created_at: 2026-07-11T09:37:19Z
+        updated_at: 2026-07-11T09:37:24Z
+        browser_download_url: https://github.com/prof18/feed-flow/releases/download/1.15.0-all/FeedFlow-1.15.0.dmg
+      - url: https://api.github.com/repos/prof18/feed-flow/releases/assets/473388350
+        id: 473388350
+        node_id: RA_kwDOI8cx_M4cN1U-
+        name: FeedFlow-1.15.0.msi
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/x-msdownload
+        state: uploaded
+        size: 96286941
+        digest: sha256:8ac24a6485c4748f0d86ab4d5ee0d5c849fd1f7a465807b65da5ec6e6c4338d1
+        download_count: 6
+        created_at: 2026-07-11T09:37:19Z
+        updated_at: 2026-07-11T09:37:23Z
+        browser_download_url: https://github.com/prof18/feed-flow/releases/download/1.15.0-all/FeedFlow-1.15.0.msi
+      - url: https://api.github.com/repos/prof18/feed-flow/releases/assets/473388352
+        id: 473388352
+        node_id: RA_kwDOI8cx_M4cN1VA
+        name: feedflow_1.15.0_amd64.deb
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/x-debian-package
+        state: uploaded
+        size: 89592216
+        digest: sha256:b2226ea5e8a5610a526ea87d297cbc549e464d6b50490059cce7f0f31cff3179
+        download_count: 1
+        created_at: 2026-07-11T09:37:19Z
+        updated_at: 2026-07-11T09:37:23Z
+        browser_download_url: https://github.com/prof18/feed-flow/releases/download/1.15.0-all/feedflow_1.15.0_amd64.deb
+    tarball_url: https://api.github.com/repos/prof18/feed-flow/tarball/1.15.0-all
+    zipball_url: https://api.github.com/repos/prof18/feed-flow/zipball/1.15.0-all
+    body: "• Choose big-image cards or a grid layout for your feeds.\r
+
+      • Reorder feeds and categories to match your workflow.\r
+
+      • Customize reader text with line height.\r
+
+      • Enjoy more reliable article loading with smarter feed refreshing.\r
+
+      • Improved reliability when opening web links."
+    reactions:
+      url: https://api.github.com/repos/prof18/feed-flow/releases/352479321/reactions
+      total_count: 3
+      "+1": 0
+      "-1": 0
+      laugh: 0
+      hooray: 2
+      confused: 0
+      heart: 1
+      rocket: 0
+      eyes: 0
+  files:
+    readme: true
+    contributing: false
+    codeOfConduct: false
+    security: false
+    issueTemplates: false
+    pullRequestTemplate: false
+  labels:
+    - name: good first issue
+      color: 7057ff
+      description: Good for newcomers
+    - name: help wanted
+      color: "008672"
+      description: Extra attention is needed
+health:
+  status: active
+  tier: curated
+  visibility: listed
+  cleanupCandidate: false
+  staleReason: null
+curation:
+  reviewed: false
+  reviewedBy: null
+  reviewedAt: null
+  bestFor: []
+  caveats: []
+  whyListed: Top entry from dkhamsing/open-source-ios-apps curated list (928 stars on GitHub).
