@@ -2,7 +2,7 @@ schemaVersion: 1
 id: github:simonbengtsson/airdash
 slug: airdash
 source:
-  provider: github
+  provider: github    //araf
   owner: simonbengtsson
   repo: airdash
   url: https://github.com/simonbengtsson/airdash
